@@ -14,7 +14,7 @@ Technologies & Tools 🔧
 Projects 📊
 -----------
 
-*   **Force Sensitive Resistor Matrix Analysis**: Utilized Kriging and Super Resolution Generative Adversarial Network to enhance sensor data accuracy.
+*   **Force Sensitive Resistor Matrix Analysis**: Utilized Kriging and Super Resolution Generative Adversarial Network to enhance sensor data accuracy. [IEEE Publication](https://ieeexplore.ieee.org/document/10325319)
 *   **Lead Scoring Model for P&C Insurance**: Developed a model to optimize marketing strategies for a leading roadside insurance provider.
 *   **Sarcasm Detection in Social Media**: Implemented NLP techniques to detect sarcasm in social media comments, enhancing content understanding.
 *   **Rent Prices Trend Analysis in Stillwater**: Analyzed and predicted rent price trends using machine learning, providing valuable insights for local stakeholders.
