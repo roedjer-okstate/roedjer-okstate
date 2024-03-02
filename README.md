@@ -39,3 +39,4 @@ Feel free to reach out to me for collaborations, learning opportunities, or just
 *   Email: roetan@okstate.edu | roedjer@gmail.com
 *   Phone: 515-715-7347
 *   LinkedIn: [Roe Djer Tan](https://www.linkedin.com/in/roe-djer-tan/)
+*   Tableau: [Roe Djer Tan](https://public.tableau.com/app/profile/roe.djer.tan/vizzes)
