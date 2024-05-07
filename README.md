@@ -11,22 +11,6 @@ Technologies & Tools 🔧
 *   **Big Data & Cloud**: Azure Synapse Analytics, Azure Databricks, PySpark
 *   **Specializations**: Machine Learning, Natural Language Processing (NLP), Deep Learning, Transfer Learning
 
-Projects 📊
------------
-
-*   **Optimizing Spatial Sensing Performance with Kriging and SRGAN**: Utilized Kriging and Super Resolution Generative Adversarial Network to enhance sensor data accuracy. [IEEE Publication](https://ieeexplore.ieee.org/document/10325319) - Demonstration of deep learning using `Torch`
-*   **Large Language Model Group Exercise**: Applied LangChain to demonstrate implementation of chatbot with `Retrieval Augmented Generation` (Since the same concepts are done in my previous company with NDA, this is just a demonstration with non-sensitive data).
-*   **Wharton People Analytics Case Competition**: Showcased 2nd runner-up in an international case competition incorporating factor analysis, segmentation, and Generative AI to tackle intricate real-world workplace problems.
-*   **Bank Term Deposit Subscription**: Demonstration of the use of `PySpark` to solve business problem.
-*   **Optimal Discount Strategy Model for Subsription Based Model**: Optimization modeling example.
-*   **Customer Lifetime Value Analysis**: Showed understanding on churn and margin modeling as well as estimating customer lifetime value. Then, customer segmentation is done to provide targeted strategies.
-*   **Sarcasm Detection in Social Media**: Implemented NLP techniques to detect sarcasm in social media comments, enhancing content understanding.
-*   **DataLemur SQL**: Showcased SQL abilities.
-*   **Rent Prices Trend Analysis in Stillwater**: Analyzed and predicted rent price trends using machine learning, providing valuable insights for local stakeholders.
-*   **Lead Scoring Model for P&C Insurance**: Developed a model to optimize marketing strategies for a leading roadside insurance provider (Not public due to NDA).
-*   **University of South Carolina Big Data Health Science National Case Competition**: Successfully classified neural vigilance state using CNN + LSTM and acquired 1st runner-up placement (Not public due to NDA).
-*   **Humana-Mays National Case Competition** Implemented sentiment analysis, survival analysis, segmentation, and predictive modeling in proposing personalized care strategies tackling cancer therapy discontinuation, attaining Top 5 nationally (Not public due to NDA).
-
 Achievements 🏆
 ---------------
 
